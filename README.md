@@ -3,7 +3,7 @@
 WavesClientLite для работы с ассетом "YouTubeCoin™ (YTB)" в сети Waves Blockchain
 </br>
 <p align="center">
-  <img src="https://github.com/raasakh/client_ytb/blob/master/wallet.gif">
+  <img src="https://github.com/raasakh/YTBClientLite/blob/master/wallet.gif">
 </p>
 
 * Загрузите и распакуйте zip в любой каталог
